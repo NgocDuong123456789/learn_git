@@ -1,2 +1,2 @@
 const sum=(a,b)=>a+b;
-console.log(sum(1,9))
+console.log(sum(1,10))
